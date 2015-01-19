@@ -1,3 +1,5 @@
+package mySrc;
+
 /**
  * Created by MaRV on 1/19/2015.
  */
