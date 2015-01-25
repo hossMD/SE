@@ -1,4 +1,4 @@
-package homeWork.ShowMeAlfabet;
+package homework.ShowMeAlfabet;
 
 /**
  * Created by Dmitry on 1/23/2015.

@@ -1,4 +1,4 @@
-package DemoJavaBasics;
+package demojavabasics;
 
 /**
  * Created by iucosoft7 on 1/21/15.

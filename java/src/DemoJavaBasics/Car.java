@@ -1,4 +1,4 @@
-package DemoJavaBasics;
+package demojavabasics;
 
 public class Car {
 

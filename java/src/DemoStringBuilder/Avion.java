@@ -1,4 +1,4 @@
-package DemoStringBuilder;
+package demostringbuilder;
 
 /**
  * Created by iucosoft7 on 1/23/15.

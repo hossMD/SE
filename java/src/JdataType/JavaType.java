@@ -1,6 +1,4 @@
-package JdataType;
-
-import com.sun.xml.internal.messaging.saaj.soap.JpegDataContentHandler;
+package jdatatype;
 
 /**
  * Created by iucosoft7 on 1/21/15.

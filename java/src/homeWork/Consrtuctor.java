@@ -1,4 +1,4 @@
-package homeWork;
+package homework;
 
 /**
  * Created by MaRV on 1/21/2015.

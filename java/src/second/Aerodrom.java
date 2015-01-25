@@ -1,6 +1,6 @@
 package second;
 
-import DemoJavaBasics.Avion;
+import demojavabasics.Avion;
 
 import java.util.Date;
 
