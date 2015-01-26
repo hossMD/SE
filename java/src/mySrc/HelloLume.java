@@ -1,6 +1,4 @@
-package mySrc;
-
-import javax.swing.*;
+package mysrc;
 
 public class HelloLume{
     public static void main (String[] args){

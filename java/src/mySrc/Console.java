@@ -1,4 +1,4 @@
-package mySrc;
+package mysrc;
 
 import java.util.Scanner;
 //import javax.swing.JOptionPane;

@@ -1,4 +1,4 @@
-package mySrc;
+package mysrc;
 
 import javax.swing.*;
 

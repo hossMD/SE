@@ -5,7 +5,7 @@ import javax.swing.*;
  */
 
 
-public class alfabet {
+public class Alfabet {
     private JButton button1;
     private JTextField textField1;
     private JButton button2;
